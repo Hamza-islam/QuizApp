@@ -1,0 +1,14 @@
+<resources>
+    <!-- These all references that I use in XML and java activity file for Better Practise-->
+    <string name="app_name">QuizApp</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toast_message">Not good!</string>
+    <string name="quiz_stats">0/0</string>
+    <string name="q1">Animals that lay eggs don\'t have belly buttons.</string>
+    <string name="q2">Beavers can hold their breath for 45 minutes under water.</string>
+    <string name="q3">Slugs have four noses.</string>
+    <string name="q4">Camels have three eyelids.</string>
+    <string name="q5">A honey bee can fly at 15mph.</string>
+</resources>
